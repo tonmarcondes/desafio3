@@ -18,12 +18,10 @@ Javascript
 React
 React Native
 
-
 Extras
 Bootstrap
 Node Js
 Design Thinking
-  
 
 Participantes do programa
 Nome e-Mail
@@ -38,4 +36,4 @@ Renan
 Ro rosangelasarachisilva@gmail.com 
 Victor desenhagamer5005@gmail.com 
 
-![Modelo](./img/modelo.png)
+![Modelo](img/modelo.png)
