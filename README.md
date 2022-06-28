@@ -28,7 +28,7 @@ Nome e-Mail
 Ana Lu analuizafantinfan00@hotmail.com 
 André andredelend@gmail.com 
 Carlinha carlalopes_@live.com 
-Gabi gabriella.sala00@yahoo.com 
+Gabriella gabriella.sala00@yahoo.com 
 Kaio kaioguilhermedeoliveira@gmail.com 
 Pedro Henrique  
 Rebeca  
